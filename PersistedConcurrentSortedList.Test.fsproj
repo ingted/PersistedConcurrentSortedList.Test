@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FAkka.ProtoBuf.FSharp" Version="1.0.0" />
+    <PackageReference Include="FSharp.Collections.ParallelSeq" Version="1.2.0" />
+    <PackageReference Include="protobuf-net" Version="3.2.45" />
+    <PackageReference Include="protobuf-net.Core" Version="3.2.45" />
+  </ItemGroup>
+
+  <ItemGroup Condition="$(DefineConstants.Contains('DEEPDEBUG'))">
+    <ProjectReference Include="..\..\..\Libs5\KServer\fstring\PersistedConcurrentSortedList.fsproj" />
+  </ItemGroup>
+
+  <ItemGroup Condition="$(DefineConstants.Contains('DEEPDEBUG')) == false">
+    <Reference Include="PersistedConcurrentSortedList">
+      <HintPath>..\..\..\Libs5\KServer\fstring\bin\net9.0\PersistedConcurrentSortedList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
