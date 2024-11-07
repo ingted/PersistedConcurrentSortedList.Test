@@ -3,12 +3,9 @@ G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Rele
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\PersistedConcurrentSortedList.Test.runtimeconfig.json
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\PersistedConcurrentSortedList.Test.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\PersistedConcurrentSortedList.Test.pdb
-G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\FsPickler.dll
-G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\FsPickler.Json.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\protobuf-net-fsharp.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\FSharp.Collections.ParallelSeq.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\FSharp.Core.dll
-G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\Newtonsoft.Json.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\protobuf-net.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\protobuf-net.Core.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\cs\FSharp.Core.resources.dll
@@ -39,3 +36,4 @@ G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\obj\Rele
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\obj\Release\net9.0\PersistedConcurrentSortedList.Test.pdb
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\obj\Release\net9.0\PersistedConcurrentSortedList.Test.genruntimeconfig.cache
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\obj\Release\net9.0\ref\PersistedConcurrentSortedList.Test.dll
+G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Release\net9.0\PersistedConcurrentSortedList.Test.dll.config

@@ -27,8 +27,9 @@ module PCSLTest =
 
         printfn "%A" pcsl["ORZ2"]
 
-    open CSLTest
+    //open CSLTest
     open CSL
+    let csl = CSLTest.csl ()
     let (Some lockId) = csl.RequireLock(None, None) |> Async.RunSynchronously
 
     printfn "lockId: %A" lockId
@@ -128,3 +129,5 @@ module PCSLTest =
     let extracted = kvOpTask23R.foldOpResultValOpR |> Array.map (fun opr -> Option.map PCSLFunHelper<string, fstring>.kvExtract opr)
 
     printfn "%A" extracted
+
+    Array.concat
