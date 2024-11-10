@@ -37,3 +37,6 @@ G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\obj\Debu
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\protobuf-net.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\protobuf-net.Core.dll
 G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\PersistedConcurrentSortedList.Test.dll.config
+G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\FsPickler.dll
+G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\FsPickler.Json.dll
+G:\coldfar_py\sharftrade9\Libs\Tests\PersistedConcurrentSortedList.Test\bin\Debug\net9.0\Newtonsoft.Json.dll

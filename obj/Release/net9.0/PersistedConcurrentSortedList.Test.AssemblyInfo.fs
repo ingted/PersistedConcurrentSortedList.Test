@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("PersistedConcurrentSortedList.Test")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Release")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11fc096c4df89cd17bacf78847bad4eaeff9736")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b7676aa9dbc76990f3a3c4a1e0bf3a2ea7230d5")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("PersistedConcurrentSortedList.Test")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("PersistedConcurrentSortedList.Test")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
